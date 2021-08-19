@@ -1,3 +1,4 @@
+
 //Launcher for OpenLibs project ~ Compile or execute precompiled version
 include <iostream>
 
