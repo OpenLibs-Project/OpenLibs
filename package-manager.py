@@ -1,6 +1,6 @@
 # Este codigo esta en el mismo fichero por simplicidad 
 # Separar en clases como jar al terminar y cuidar memory leaks en importacion circular
-
+# No funcional aun - en proceso
 
 import os
 import requests
