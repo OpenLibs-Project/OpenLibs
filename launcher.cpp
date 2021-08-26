@@ -11,7 +11,7 @@ int main() {
         system("bash  install_properties.sh");
     } 
     else {
-        system("bash install_properties.sh"); 
+        system("bash installer.sh"); 
     }
     
     return 0;
