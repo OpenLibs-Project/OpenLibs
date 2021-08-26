@@ -4,7 +4,7 @@ OpenLibs es un proyecto de software open source creado por usuarios para que cua
 
 ## Instalación
 
-### macOS && GNU/Linux
+#### macOS && GNU/Linux
 
 ```git clone https://github.com/OpenLibs-Project/OpenLibs/```
 
